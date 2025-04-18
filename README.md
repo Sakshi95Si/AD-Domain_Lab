@@ -119,7 +119,7 @@ We have 2 NICs for this setup. The internet NIC will get the IP from the home ro
    ![VMbox](screenshots/image23.png) 
      
 5. Manually enter the IP address as below and click ok.  
-   ![VMbox](screenshots/image42.png)
+   ![VMbox](screenshots/imageX1.png)
 
 ---    
    
