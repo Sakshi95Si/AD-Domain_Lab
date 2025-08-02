@@ -326,7 +326,7 @@ We have 2 NICs for this setup. The internet NIC will get the IP from the home ro
    ![VMbox](screenshots/image74.png)  
    ![VMbox](screenshots/image75.png) 
      
-   First time login will ask to rest the password as per policy.   
+   First time login will ask to reset the password as per policy.   
      
      
      
